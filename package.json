@@ -21,7 +21,7 @@
     "prepublishOnly": "yarn test"
   },
   "dependencies": {
-    "@assettler/core": "^0.4.0"
+    "@assettler/core": "0.x"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
